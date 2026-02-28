@@ -7,5 +7,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ouedlevi/deepLearning.git
 git remote set-url origin git@github.com:ouedlevi/DataTransfer.git
-git push -u origin main
+#git push -u origin main
+git push
 
